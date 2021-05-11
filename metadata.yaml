@@ -1,0 +1,29 @@
+_repo: Floral-Illustrations-of-the-Seasons-Consisting-of-the-Most-Beautiful-Hardy-and-Rare-Herbaceou__65196
+_version: 0.0.1
+contributor:
+  engineer:
+    agent_name: Havell, R.
+    gutenberg_agent_id: '53228'
+    url: http://www.gutenberg.org/2009/agents/53228
+  illustrator: &id001
+    agent_name: Roscoe, M.
+    gutenberg_agent_id: '53227'
+    url: http://www.gutenberg.org/2009/agents/53227
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2021-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Floral Illustrations of the Seasons
+
+  Consisting of the Most Beautiful, Hardy and Rare Herbaceous Plants, Cultivated in
+  the Flower Garden'
+url: http://www.gutenberg.org/ebooks/65196
