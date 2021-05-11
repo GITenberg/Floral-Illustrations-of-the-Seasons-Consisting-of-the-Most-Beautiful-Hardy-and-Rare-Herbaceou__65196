@@ -1,5 +1,5 @@
 _repo: Floral-Illustrations-of-the-Seasons-Consisting-of-the-Most-Beautiful-Hardy-and-Rare-Herbaceou__65196
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   engineer:
     agent_name: Havell, R.
@@ -9,9 +9,14 @@ contributor:
     agent_name: Roscoe, M.
     gutenberg_agent_id: '53227'
     url: http://www.gutenberg.org/2009/agents/53227
+covers:
+- cover_type: archival
+  image_path: 65196-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65196#Floral-Illustrations-of-the-Seasons-Consisting-of-the-Most-Beautiful-Hardy-and-Rare-Herbaceou_
 gutenberg_issued: '2021-04-30'
 gutenberg_type: Text
 identifiers:
